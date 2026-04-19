@@ -4,40 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0c78964979581932",
+        "id": "59f6b8bab144a3cc",
         "type": "tabs",
         "children": [
           {
-            "id": "7ac4c8728949eff4",
+            "id": "6bb02f8417598a26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Топ ниш для пет проектов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Топ ниш для пет проектов"
             }
-          }
-        ]
-      },
-      {
-        "id": "dd6d94f0474927e2",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d4cd918169b59ed1",
+            "id": "35f2b750361218f9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "AI ATS ASSISTANT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI ATS ASSISTANT"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "AI ATS ASSISTANT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Обратные ссылки для AI ATS ASSISTANT"
             }
           },
           {
@@ -180,27 +179,52 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "a3685ba79f75c4ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ac4c8728949eff4",
+  "active": "35f2b750361218f9",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "create a link.md",
+    "Топ ниш для пет проектов.md",
+    "AI ATS ASSISTANT.md",
+    "AI ATS ASSISTANT (KANAVA).md",
+    "SCR-20260419-rjra.png",
+    "SCR-20260419-qnln.png",
+    "SCR-20260419-qndj.png",
+    "SCR-20260419-qmsh.png",
+    "SCR-20260419-pdqy.png",
+    "SCR-20260419-pdad.png",
+    "SCR-20260419-pbql.png",
+    "SCR-20260419-pbix.png",
+    "SCR-20260419-oktb.png",
+    "SCR-20260419-okjc.png"
   ]
 }
